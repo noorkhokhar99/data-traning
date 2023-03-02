@@ -1,6 +1,11 @@
 # data-traning
 
+The Pothole Detection Dataset to Train YOLOv8
+
+We are using quite a large pothole dataset in this article which contains more than 7000 images collected from several sources.
+
 Download the Dataset
+
 If you plan to execute the training commands on your local system, you can download the dataset by executing the following command.
 
 
