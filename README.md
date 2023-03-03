@@ -16,7 +16,9 @@ wget https://www.dropbox.com/s/qvglw8pqo16769f/pothole_dataset_v8.zip?dl=1 -O po
 
 Next, unzip it in the current directory.
 
+````
 unzip pothole_dataset_v8.zip
+````
 
 Inside the directory, we are the dataset is contained in the train and valid folders. As with all other YOLO models, the labels are in the text files with normalized xmin, ymin, width, height.
 
